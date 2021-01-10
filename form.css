@@ -1,0 +1,76 @@
+html{
+  background-color: #eee;
+}
+
+
+.items{
+  background-size: cover;
+  margin-top: 10%;
+  background-position: center;
+  margin : none;
+}
+
+.h1{
+  margin-left: 5%;
+  border: 1px solid #999;
+}
+.but1{
+  margin-top: 2%;
+  height: 2em;
+  width: 10em;
+  background-color: rgb(71, 68, 68);
+  color: white;
+  border-radius: 7%;
+  margin-left: 5%;
+  margin-bottom: 10%;
+  padding: none;
+  cursor: pointer;
+}
+.but1:hover{
+  background-color: black;
+
+}
+
+form{
+  border: 1px solid #888;
+  background-color:#999;
+  margin-bottom: 2%;
+}
+.sec1{
+  margin-left: 5%;
+
+}
+.h2{
+  margin-left: 2%;
+}
+
+.b1{
+  margin-bottom: 10%;
+  margin-top: 10%;
+}
+
+.d1{
+
+  margin-top: 2%;
+  height: 30px;
+  width: 200px;
+  margin-bottom: 2%;
+
+}
+.input{
+  height: 20px;
+  width: 20em;
+  padding: none;
+
+}
+.item{
+  border: 1px solid #999;
+  padding-left: none;
+  margin-bottom: 3%;
+  height: 30px;
+  background-color: #999;
+  margin-left: 5%;
+ 
+
+}
+
